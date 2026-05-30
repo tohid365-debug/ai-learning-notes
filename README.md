@@ -21,3 +21,8 @@ To document learning progress and share useful knowledge with others interested 
 - Add workflow examples
 - Add Python learning materials
 - Add practical AI use cases
+## Current Learning Focus
+
+- AI Applications
+- Workflow Automation
+- Documentation Systems
